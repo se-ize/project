@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354646212321",
+    "firebase_url": "https://pushgo.firebaseio.com",
+    "project_id": "pushgo",
+    "storage_bucket": "pushgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354646212321:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354646212321-1bpcuaa2og9v6igsd245i5u6be05cp73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtUjgT8N9UT477e7fdPhY1VQSbWXWA4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354646212321-1bpcuaa2og9v6igsd245i5u6be05cp73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
